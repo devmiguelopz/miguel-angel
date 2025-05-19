@@ -1,0 +1,7 @@
+{
+  "name": "Demos",
+  "short_name": "Demos",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "377740311156"
+}
