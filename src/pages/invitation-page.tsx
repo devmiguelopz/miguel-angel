@@ -177,7 +177,7 @@ export default function InvitationPage() {
                 Dicen que ‘Ohana’ significa familia, y desde que llegaste,
                 siento que encontré la mía en ti. Acompáñame a una noche donde
                 las risas sean reales, los abrazos inevitables, y las miradas
-                digan más que mil palabras. Vamos a ver
+                digan más que mil palabras. Vamos a ver{" "}
                 <span className="text-pink-400 font-semibold">
                   Lilo & Stitch
                 </span>
